@@ -1,4 +1,4 @@
-# Hello, I am Hadiseh Mirzaei 👋
+# Hello, I'm Hadiseh Mirzaei 👋
 
 
 ### about me
