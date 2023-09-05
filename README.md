@@ -1,11 +1,13 @@
 ### Hi there 👋 , I am Hadiseh Mirzaei
 
-<!--
-**HadisehMirzaei/HadisehMirzaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###about me
 
-Here are some ideas to get you started:
-
+- a student of Farzanegan high school in Hamedan
 - 🌱 I’m currently learning django, SQL server and lots of another things
+
+Hobbies:
+:closed_book: Books and :headphones: Podcasts
+
 ### programming  skill
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
