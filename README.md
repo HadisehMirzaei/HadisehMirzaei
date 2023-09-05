@@ -3,7 +3,7 @@
 
 ### about me
 
-- a student of Farzanegan high school in Hamedan
+- 📚 a student of Farzanegan high school in Hamedan
 - 🌱 I’m currently learning django, SQL server and lots of another things
 
 Hobbies:
