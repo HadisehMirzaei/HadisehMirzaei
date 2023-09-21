@@ -6,7 +6,7 @@
 - 📚 a student of Farzanegan high school in Hamedan
 - 🌱 I’m currently learning django, SQL server and lots of another things
 
-Hobbies:
+my best Hobbies:
 :closed_book: Books and :headphones: Podcasts
 
 ### programming  skill
@@ -15,5 +15,4 @@ Hobbies:
 
 ### Contact me
 
-[![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hadisehmirzayy@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hadise-mirzaei-ba0b65258/)
